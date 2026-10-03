@@ -24,4 +24,4 @@ O relatório aparece no Logcat filtrando pela tag `Carrinho`.
 
 ## Vídeo
 
-Link: 
+Link: https://youtu.be/1UBxoTNvfZs
