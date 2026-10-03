@@ -2,6 +2,16 @@
 
 App Android em Kotlin com Jetpack Compose que mostra os itens de um carrinho, calcula subtotal, descontos e total, e imprime no Logcat um relatório dos produtos com desconto.
 
+## Prints
+
+Emulador:
+
+<img src="prints/emulador.png" width="300">
+
+Logcat:
+
+![Logcat](prints/logcat.png)
+
 ## Como rodar
 
 1. Clonar o repositório e abrir a pasta no Android Studio
